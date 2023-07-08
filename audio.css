@@ -1,0 +1,26 @@
+nav, ul{
+    display: flex;
+   
+}
+nav, ul, li{
+    
+    color: aliceblue;
+    margin: 10px 10px;
+    list-style: none;
+    background-color: rgb(55, 68, 93);
+
+}
+nav, ul, li, a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+a:hover{
+    color: black;
+}
+figure, img{
+    margin-left: 0px;
+    
+}
+
+
